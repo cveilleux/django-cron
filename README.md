@@ -4,6 +4,16 @@
 
 Becoming a super hero is a fairly straight forward process:
 
+Non.
+
+### Heading 2
+
+{% page-ref page="./" %}
+
+Non
+
+![](.gitbook/assets/impossible.320-150x150-2x.jpg)
+
 ```text
 $ give me super-powers
 ```
